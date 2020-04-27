@@ -1,0 +1,8 @@
+README.rst
+setup.py
+symsolver/__init__.py
+symsolver.egg-info/PKG-INFO
+symsolver.egg-info/SOURCES.txt
+symsolver.egg-info/dependency_links.txt
+symsolver.egg-info/requires.txt
+symsolver.egg-info/top_level.txt

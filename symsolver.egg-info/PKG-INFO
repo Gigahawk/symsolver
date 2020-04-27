@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: symsolver
+Version: 0.1.0
+Summary: Reexpress sympy equations
+Home-page: UNKNOWN
+Author: Jasper Chan
+Author-email: jasperchan515@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8,<4.0
